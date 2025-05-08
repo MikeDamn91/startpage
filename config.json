@@ -68,8 +68,8 @@
     "r": "https://reddit.com",
     "g": "https://github.com",
     "y": "https://youtube.com",
-    "d": {
-      "URL": "https://duckduckgo.com",
+    "G": {
+      "URL": "www.google.comm",
       "Search": "/?q="
     },
     "b": "https://bing.com",
